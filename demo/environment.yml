@@ -1,0 +1,11 @@
+name: demo
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python
+  - mlst
+  - snippy
+  - abricate
